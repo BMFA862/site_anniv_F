@@ -1,0 +1,31 @@
+body{
+    background-image: url("img/lettre2.png");
+    background-repeat:no-repeat;
+    background-size: 450px;
+    background-position: center;
+    background-position-y: 100px;
+    background-color: #3498db;
+}
+
+.fond{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 60px;
+    z-index: 10000;
+    border: 150px;
+}
+
+ img{
+    width: 300px;
+ }
+
+ h1{
+    margin-top: 100px;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+ }

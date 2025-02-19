@@ -1,0 +1,33 @@
+body {
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: flex-start; 
+    min-height: 100vh;
+    background-color: #3498db; 
+}
+
+audio{
+    margin-top: 100px;
+    padding: 10 0;
+    width: 80%; 
+    display: flex; 
+    justify-content: center; 
+    background-color: #f0f0f0;
+    border-radius: 20px; /* Rayon des coins arrondis */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optionnel : ajoute une ombre pour plus de style */
+}
+
+.anivtxt{
+    width: 300px;
+}
+
+.coeur{
+    width: 150px;
+}
+
+.feux{
+    width: 150px;
+}
